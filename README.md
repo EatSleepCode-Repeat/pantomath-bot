@@ -1,2 +1,2 @@
 # pantomath-bot
-My Discord Bot
+Commissioned Bot made for ## REDACTED ##
